@@ -1,0 +1,46 @@
+[
+    {
+      "id": "1",
+      "cover": "https://taan-veer.imgbb.com/",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_image": "https://taan-veer.imgbb.com/",
+      "posted_date": "mar 14 (4 days ago)",
+      "reading_time": 5,
+      "hashtags": ["Lorem", "Ipsum"]
+    },
+
+    {
+      "id": "2",
+      "cover": "https://taan-veer.imgbb.com/",
+      "title": "Random Thoughts",
+      "author": "Jane Smith",
+      "author_image": "https://taan-veer.imgbb.com/",
+      "posted_date": "mar 14 (4 days ago)",
+      "reading_time": 8,
+      "hashtags": [ "Thoughts", "Writing"]
+    },
+
+    {
+      "id": "3",
+      "cover": "https://taan-veer.imgbb.com/",
+      "title": "Exploring AI",
+      "author": "Alice Johnson",
+      "author_image": "https://taan-veer.imgbb.com/",
+      "posted_date": "mar 14 (4 days ago)",
+      "reading_time": 12,
+      "hashtags": ["Technology", "Research"]
+    },
+
+    {
+      "id": "4",
+      "cover": "https://taan-veer.imgbb.com/",
+      "title": "Cooking Adventures",
+      "author": "David Wilson",
+      "author_image": "https://taan-veer.imgbb.com/",
+      "posted_date": "mar 14 (4 days ago)",
+      "reading_time": 14 ,
+      "hashtags": ["Cooking", "Recipes"]
+    }
+
+]
