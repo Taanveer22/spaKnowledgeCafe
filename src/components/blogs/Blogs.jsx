@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 
 
-const Blog = () => {
-    const [blog, setBlog] = useState([]);
+const Blogs = () => {
+    const [blogs, setBlogs] = useState([]);
 
     useEffect(() => {
         fetch('blogs.json')
@@ -17,4 +17,4 @@ const Blog = () => {
     );
 };
 
-export default Blog;
+export default Blogs;
